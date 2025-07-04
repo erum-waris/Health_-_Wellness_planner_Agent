@@ -1,0 +1,4 @@
+openai-agents==0.1.2
+streamlit==1.35.0
+pydantic==2.5.3
+rich==13.7.1
